@@ -1,5 +1,6 @@
 # cura-aqua-dark-theme
-Dark colorful theme for the Cura slicer
+
+Dark colorful theme for [Cura](https://github.com/Ultimaker/Cura) 3.1
 
 ## Installation
 Move the `aqua-dark` folder to the themes folder in the Cura data folder:
